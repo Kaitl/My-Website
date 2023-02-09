@@ -1,0 +1,40 @@
+#apps{
+background-color: rgb(65, 240, 185);
+border-style:groove double dotted;
+border-width: 5px ;
+border-color:rgb(47, 89, 75);
+border-radius: 30px;
+text-align: center;
+}
+#games{
+    background-color: rgb(247, 200, 225);
+    border-style:groove double dotted;
+    border-width: 5px ;
+    border-color:rgb(88, 12, 65);
+    border-radius: 30px;
+    text-align: center;
+}
+#chat-bots{
+    background-color: rgb(190, 128, 241);
+    border-style:groove double dotted;
+    border-width: 5px ;
+    border-color:rgb(81, 30, 153);
+    border-radius: 30px;
+    text-align: center;
+}
+.break1{
+    background-color: black;
+    height: 5px;
+    width: 50px;
+    margin: auto;
+}
+.taxit{
+    color:rgb(77, 65, 240);
+    font-size:20px;
+}
+#random{
+    background:linear-gradient(rgb(241, 195, 203) 0%, rgb(243, 217, 217) 50%, red 100%)
+}
+#random2{
+    background:linear-gradient( rgb(190, 128, 241) 0%,rgb(230, 142, 230) 50%, rgb(120, 58, 120) 100%)
+}
